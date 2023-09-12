@@ -15,8 +15,10 @@ Standard_mode
 　|--L6470_4_Moter.ino  
 
 ## 標準モード
+<img src ="https://github.com/omae8Tsuzaki/L6470_moter_driver/assets/132863781/bd1d8214-35e1-414b-aa3d-30e5f168503d" width ="640px">  
 
 ## デイジーチェーンモード
+<img src ="https://github.com/omae8Tsuzaki/L6470_moter_driver/assets/132863781/ab3b6f50-94e6-45d6-bfd1-72f9fe390335" width ="480px">  
 
 ## 実験機材
 <img src ="https://github.com/omae8Tsuzaki/L6470_moter_driver/assets/132863781/2e7bcfa3-d5d9-4b2e-9d69-d4bffb394275" width= "640px">
