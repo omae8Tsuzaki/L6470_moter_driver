@@ -14,6 +14,22 @@ Standard_mode
 　|--L6470_3_Moter.ino  
 　|--L6470_4_Moter.ino  
 
+## L6470モータドライバ端子
+| 端子番号 | 信号名 | 機能 |
+| --- | --- | ---|
+| 1 | #busy/sync | #動作表示/同期表示 |
+| 2 | FLAG | 内部フラグ状態出力 |
+| 3 | GND | GND |
+| 4 | EXT-VDD | VDD(JP1に依存) |
+| 5 | SDO | SPAデータOUT |
+| 6 | CK | SPIクロック |
+| 7 | SDI | SPIデータIN |
+| 8 | #CS | SPIチップセレクト |
+| 9 | STCK | ステップクロック入力 |
+| 10 | #STBY/#RST | #スタンバイ・#リセット|
+
+#がついてる信号名は負論理
+
 ## 標準モード
 <img src ="https://github.com/omae8Tsuzaki/L6470_moter_driver/assets/132863781/bd1d8214-35e1-414b-aa3d-30e5f168503d" width ="640px">  
 
