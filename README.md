@@ -21,7 +21,7 @@ Standard_mode
 | 2 | FLAG | 内部フラグ状態出力 |
 | 3 | GND | GND |
 | 4 | EXT-VDD | VDD(JP1に依存) |
-| 5 | SDO | SPAデータOUT |
+| 5 | SDO | SPIデータOUT |
 | 6 | CK | SPIクロック |
 | 7 | SDI | SPIデータIN |
 | 8 | #CS | SPIチップセレクト |
